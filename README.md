@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="./src/assets/images/logo.svg"/>
-</h1>
+<h1 align="center">   <img src="src/assets/logo.svg"></img> </h1>
 
 <p align="center">  
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
