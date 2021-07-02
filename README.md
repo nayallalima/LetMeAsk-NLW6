@@ -15,13 +15,11 @@
 
 Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
 
-
 ## ✅ Tecnologias utilizadas
 
 - [Firebase](https://firebase.google.com/)
 - [React](https://reactjs.org)
 - [SASS](https://yarnpkg.com/package/node-sass)
-
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 🎨 Layout
@@ -50,10 +48,6 @@ Lembrando que será necessário criar uma conta no [Firebase](https://firebase.g
 <a>	<img alt="License" src="https://img.shields.io/badge/license-MIT-blueviolet"> </a>
 
 ---
-
-Feito com 💜️ por Nayalla Lima
-<br />
-Entre em contato 😀 
-
-[![Linkedin Badge](https://img.shields.io/badge/-NayallaLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayalla-lima//)](https://www.linkedin.com/in/nayalla-lima/)
-[![Gmail Badge](https://img.shields.io/badge/-nayallaml@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayallaml@gmail.com)](mailto:nayallaml@gmail.com)
+<p align="center">
+  Feito com 💜️ por <a href="https://github.com/nayallalima">Nayalla Lima </a>
+</p>
