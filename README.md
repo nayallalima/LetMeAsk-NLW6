@@ -41,7 +41,7 @@ O app estará disponível no seu browser pelo endereço [`localhost:3000`](http:
 Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
 
 ## ♥️ Contribuidores 
-<p> Obrigada a todos que fazem parte da <a href="http://campinas.tech/campinas-tech-talents/">Rocketseat 🚀</a>, </p>
+<p> Obrigada a todos que fazem parte da <a href="http://https://rocketseat.com.br//">Rocketseat 🚀</a>, </p>
 
 ## 🔒 Licença
 
